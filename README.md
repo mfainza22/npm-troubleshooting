@@ -6,3 +6,12 @@
 
 npm cache clean -f
 npm install -g latest
+
+
+
+## Can't running a command with git bash ##
+
+> Install the npm package globally
+
+- npm i {npm_plugin} -g 
+
